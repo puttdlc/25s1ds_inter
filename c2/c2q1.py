@@ -15,6 +15,7 @@ class translator:
         "IV" : 4,
         "I" : 1,
     }
+    #nuts
 
     def deciToRoman(self, num):
         currentSum = 0
